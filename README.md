@@ -1,1 +1,1 @@
-# Sel_supervised_learning_BraTs
+# Self_supervised_learning_BraTs
